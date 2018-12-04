@@ -1,5 +1,5 @@
 #  Selenium GUI Automation Using Cucumber BDD 
-  This is a Java Selenium project using Cucumber Java BDD framework, TestNG and Extent Report. 
+  This is a Java Selenium Maven project using Cucumber Java BDD framework, TestNG and Extent Report. 
   The Scenario is given below
   Scenario: Bill wants to travel from DXB to LHR
        Given that Bill has decided to check available flights.
@@ -8,3 +8,5 @@
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for  testing purposes. See deployment for notes on how to deploy the project on a live system.
+### Prerequisites
+Windows or Mac OS, JDK 1.8 or higher, Apache Maven 3.6, Latest Chrome browser ver 70 onwards / Mozilla firefox quantum60.2 or higher
