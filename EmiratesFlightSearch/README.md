@@ -1,4 +1,4 @@
-#  Selenium GUI Automation Using Cucucuber BDD 
+#  Selenium GUI Automation Using Cucumber BDD 
   This is a Java Selenium project using Cucumber Java BDD framework, TestNG and Extent Report. 
   The Scenario is given below
   Scenario: Bill wants to travel from DXB to LHR
