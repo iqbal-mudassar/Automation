@@ -5,3 +5,6 @@
        Given that Bill has decided to check available flights.
        When he looks at a return trip from DXB to LHR leaving one week from now.
        Then he should be shown the cheapest return ticket from DXB to LHR.
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for  testing purposes. See deployment for notes on how to deploy the project on a live system.
