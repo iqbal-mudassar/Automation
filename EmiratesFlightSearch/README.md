@@ -7,6 +7,6 @@
        Then he should be shown the cheapest return ticket from DXB to LHR.
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for  testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for  testing purposes. 
 ### Prerequisites
-Windows or Mac OS, JDK 1.8 or higher, Apache Maven 3.6, Latest Chrome browser ver 70 onwards / Mozilla firefox quantum60.2 or higher
+Windows or Mac OS, JDK 1.8 or higher, Apache Maven 3.6, Latest Chrome browser ver 70 onwards / Mozilla firefox quantum ver 60.2 or higher
